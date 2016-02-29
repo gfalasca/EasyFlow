@@ -7,4 +7,5 @@ package au.com.ds.ef;
  */
 public interface StateEnum {
     String name();
+
 }
